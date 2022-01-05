@@ -33,5 +33,6 @@ This game is formed by 12 sub-games, there are some base rules, valid for almost
 
 12)Domino - This game is an atypical sub-game, in which you have to use all your card before everyone else. The sub-game's goal is to make all the four straight flush, from A 
 to K, on the table, by placing one card each per turn. The firsts cards you can play if there aren't any on the table are only the '7's; if there are card on the table, you can only continue the straights by adding a card (according to the suit) +1 or -1 from the one already on the table (ex. if on the table there is only the 7 of Clubs, the only cards you can play are 6 of Clubs, 8 of Clubs, or any other 7, if you don't have any of those card, you pass your turn without play any card. 
+When someone dosn't have anymore cards in their hand, the sub-game is over and they're the winner of this sub-game. The winner gain 1 point for each card in the other player's hand, and everyone gets -1 Point for each card in their hand.
 
 At the end of every sub-game, the one with more points win.
