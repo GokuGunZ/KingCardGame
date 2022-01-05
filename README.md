@@ -7,7 +7,13 @@ It's still under development, for now I have made only the first sub-game.
 
 
 The Card game is a Regional Variation of the game in this link https://it.wikipedia.org/wiki/King_(gioco)
-This game is formed by 12 sub-games, there are some base rules, valid for almost every sub-game, but each sub-game as different scoring model and some own rules:
+This game is played by 4 players and it is formed by 12 sub-games; there are some base rules, valid for almost every sub-game, but each sub-game as different scoring model and some own rules.
+
+Every sub-game have these base rules (exeption made for the last one):
+Every sub-game is played with a Deck of French cards (52 Cards, from Ace to King, and with 4 suits: Clubs, Hearths, Diamonds, Spades), every player has 13 cards in their hand, so every sub-game has 13 Tricks (exeption made for the last one wich is not a trick-based sub-game). 
+The first trick is started from one randomly-chosed player, the others are started by the one who won the previous trick. The suit of the first played card in each trick is the 'Dominant suit', everyone else must play, if they have any, a card of the same suit as the dominant one. The player who plays the highest card of the Dominant suit 'take' (win) that trick (obvious consequence is that you can't win the trick if you don't have any card of the Dominant suit). For the four trump-game you can win the trick by playing the highest trump, even if the Dominant suit is not the same as the Trump suit, but in order to play a different suit from the dominant one, you mustn't have any card of that suit, in your hand.
+
+These are the scoring model for each Subgame:
 
 1)Normal game - Each trick taken is +1 Point.
 
