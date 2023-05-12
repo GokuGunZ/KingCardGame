@@ -1,6 +1,10 @@
 # KingCardGame
 A python version of the Card Game King implemented with pygame
 
+![Preview of the game](/prev.png?raw=true "Map with all the rides")
+
+Preview of the game
+
 To run the game just run the 'main.py' file.
 
 It's still under development, for now I have made only the first sub-game.
@@ -42,7 +46,3 @@ to K, on the table, by placing one card each per turn. The firsts cards you can 
 When someone dosn't have anymore cards in their hand, the sub-game is over and they're the winner of this sub-game. The winner gain 1 point for each card in the other player's hand, and everyone gets -1 Point for each card in their hand.
 
 At the end of every sub-game, the one with more points win.
-
-![Preview of the game](/prev.png?raw=true "Map with all the rides")
-
-Preview of the game
